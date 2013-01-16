@@ -1,0 +1,1 @@
+default['redis']['install_type'] = 'package'

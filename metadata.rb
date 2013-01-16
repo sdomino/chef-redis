@@ -1,6 +1,6 @@
-name             "chef-redis"
-maintainer       "YOUR_NAME"
-maintainer_email "YOUR_EMAIL"
+name             "redis"
+maintainer       "sdomino"
+maintainer_email ""
 license          "All rights reserved"
 description      "Installs/Configures chef-redis"
 long_description IO.read(File.join(File.dirname(__FILE__), 'README.md'))
